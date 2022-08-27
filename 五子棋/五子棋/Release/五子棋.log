@@ -1,0 +1,38 @@
+﻿  AI.cpp
+C:\Users\86155\Desktop\GAME\五子棋\五子棋\AI.cpp(30,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\86155\Desktop\GAME\五子棋\五子棋\AI.cpp(32,21): warning C4018: “<”: 有符号/无符号不匹配
+  Chess.cpp
+C:\Users\86155\Desktop\GAME\五子棋\五子棋\Chess.cpp(62,59): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\86155\Desktop\GAME\五子棋\五子棋\Chess.cpp(62,48): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\86155\Desktop\GAME\五子棋\五子棋\Chess.cpp(63,59): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\86155\Desktop\GAME\五子棋\五子棋\Chess.cpp(63,48): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\86155\Desktop\GAME\五子棋\五子棋\Chess.cpp(64,61): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\86155\Desktop\GAME\五子棋\五子棋\Chess.cpp(64,50): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\86155\Desktop\GAME\五子棋\五子棋\Chess.cpp(65,61): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\86155\Desktop\GAME\五子棋\五子棋\Chess.cpp(65,50): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\86155\Desktop\GAME\五子棋\五子棋\Chess.cpp(80,13): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+C:\Users\86155\Desktop\GAME\五子棋\五子棋\Chess.cpp(81,13): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+C:\Users\86155\Desktop\GAME\五子棋\五子棋\Chess.cpp(82,21): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+C:\Users\86155\Desktop\GAME\五子棋\五子棋\Chess.cpp(83,21): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+C:\Users\86155\Desktop\GAME\五子棋\五子棋\Chess.cpp(84,16): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\86155\Desktop\GAME\五子棋\五子棋\Chess.cpp(90,19): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\86155\Desktop\GAME\五子棋\五子棋\Chess.cpp(102,16): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+C:\Users\86155\Desktop\GAME\五子棋\五子棋\Chess.cpp(104,19): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\86155\Desktop\GAME\五子棋\五子棋\Chess.cpp(117,26): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+C:\Users\86155\Desktop\GAME\五子棋\五子棋\Chess.cpp(118,19): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\86155\Desktop\GAME\五子棋\五子棋\Chess.cpp(130,26): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+C:\Users\86155\Desktop\GAME\五子棋\五子棋\Chess.cpp(131,26): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+C:\Users\86155\Desktop\GAME\五子棋\五子棋\Chess.cpp(132,19): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\86155\Desktop\GAME\五子棋\五子棋\Chess.cpp(151,11): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\86155\Desktop\GAME\五子棋\五子棋\Chess.cpp(152,11): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\86155\Desktop\GAME\五子棋\五子棋\Chess.cpp(209,12): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\86155\Desktop\GAME\五子棋\五子棋\Chess.cpp(210,12): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  ChessGame.cpp
+  Man.cpp
+  源.cpp
+C:\Users\86155\Desktop\GAME\五子棋\五子棋\源.cpp(7,28): warning C4305: “参数”: 从“double”到“float”截断
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 187 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  五子棋.vcxproj -> C:\Users\86155\Desktop\GAME\五子棋\Release\五子棋.exe
